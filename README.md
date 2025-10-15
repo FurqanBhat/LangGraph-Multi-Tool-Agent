@@ -1,6 +1,9 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red.svg)
 ![LangGraph](https://img.shields.io/badge/Backend-LangGraph-green.svg)
+![SQLite](https://img.shields.io/badge/Database-SQLite-orange.svg)
+![LangChain](https://img.shields.io/badge/Framework-LangChain-purple.svg)
+
 
 ![Demo](chatbot.gif)
 
