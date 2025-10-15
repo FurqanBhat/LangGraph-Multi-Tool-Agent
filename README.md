@@ -1,7 +1,8 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red.svg)
 ![LangGraph](https://img.shields.io/badge/Backend-LangGraph-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+![Demo](chatbot.gif)
 
 # LangGraph Multi-Tool RAG Agent
 
