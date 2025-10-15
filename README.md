@@ -40,5 +40,5 @@ Follow these instructions to get the project running on your local machine.
 
 * Clone the repository to your local machine.
 * Setup the virtual environment.
-* Install requirement by running pip install -r requirements.txt
-* Create a .env file and store the api keys there.
+* Install requirements by running pip install -r requirements.txt
+* Create a .env file and store the required api keys there.
